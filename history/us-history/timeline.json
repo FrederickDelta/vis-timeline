@@ -1,0 +1,127 @@
+{
+  "title": {
+    "text": {
+      "headline": "History of the United States",
+      "text": ""
+    },
+    "media": {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_United_States"
+    }
+  },
+  "eras": [
+    {
+      "unique_id": 1,
+      "start_date": {
+        "year": 1789
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "Early years of the republic"
+      }
+    }
+  ],
+  "events": [
+    {
+      "text": {
+        "headline": "George Washington, 1st President"
+      },
+      "group": "Presidents",
+      "start_date": {
+        "year": "1789",
+        "month": "4",
+        "day": "30"
+      },
+      "end_date": {
+        "year": "1797",
+        "month": "3",
+        "day": "4"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/George_Washington"
+      },
+      "unique_id": 1
+    },
+    {
+      "text": {
+        "headline": "John Adams"
+      },
+      "group": "Presidents",
+      "start_date": {
+        "year": "1797",
+        "month": "3",
+        "day": "4"
+      },
+      "end_date": {
+        "year": "1801",
+        "month": "3",
+        "day": "4"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/John_Adams"
+      },
+      "unique_id": 2
+    },
+    {
+      "text": {
+        "headline": "Thomas Jefferson"
+      },
+      "group": "Presidents",
+      "start_date": {
+        "year": "1801",
+        "month": "3",
+        "day": "4"
+      },
+      "end_date": {
+        "year": "1809",
+        "month": "3",
+        "day": "4"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+      },
+      "unique_id": 3
+    },
+    {
+      "text": {
+        "headline": "James Madison"
+      },
+      "group": "Presidents",
+      "start_date": {
+        "year": "1809",
+        "month": "3",
+        "day": "4"
+      },
+      "end_date": {
+        "year": "1817",
+        "month": "3",
+        "day": "4"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/James_Madison"
+      },
+      "unique_id": 4
+    },
+    {
+      "unique_id": "5",
+      "text": {
+        "headline": "James Monroe, 5th President"
+      },
+      "group": "Presidents",
+      "start_date": {
+        "year": "1817",
+        "month": "3",
+        "day": "4"
+      },
+      "end_date": {
+        "year": "1825",
+        "month": "3",
+        "day": "4"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/James_Monroe"
+      }
+    }
+  ]
+}
