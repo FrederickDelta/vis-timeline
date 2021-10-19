@@ -25,5 +25,5 @@ fetch(endpoint)
     window.timeline = new TL.Timeline('timeline-embed', data, options);
   })
   .catch((error) => {
-    console.error('Error123:', error);
+    console.error('Error:', error);
   });
