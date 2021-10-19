@@ -1,0 +1,436 @@
+{
+  "title": {
+    "text": {
+      "headline": "法国大革命",
+      "text": ""
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": 1791,
+        "month": 9,
+        "day": 13
+      },
+      "end_date": {
+        "year": 1792,
+        "month": 9,
+        "day": 21
+      },
+      "text": {
+        "headline": "✅ 法兰西王国（君主立宪）",
+        "text": "1791-09-03  1791年宪法修订完成\n1791-09-13  路易十六接受宪法"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1792,
+        "month": 9,
+        "day": 22
+      },
+      "end_date": {
+        "year": 1804,
+        "month": 5,
+        "day": 18
+      },
+      "text": {
+        "headline": "✅ 法兰西第一共和国"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": 1774,
+        "month": 5,
+        "day": 10
+      },
+      "text": {
+        "headline": "路易十六登基"
+      },
+      "group": "法国",
+      "display_date": ""
+    },
+    {
+      "start_date": {
+        "year": 1776,
+        "month": 7,
+        "day": 4
+      },
+      "text": {
+        "headline": "美国宣告独立"
+      },
+      "group": "世界"
+    },
+    {
+      "start_date": {
+        "year": 1789,
+        "month": 5,
+        "day": 5
+      },
+      "text": {
+        "headline": "✅ 三级会议在凡尔赛开幕",
+        "text": "三级会议（Estates General）"
+      },
+      "group": "法国",
+      "display_date": "1789-05-05"
+    },
+    {
+      "start_date": {
+        "year": 1789,
+        "month": 7,
+        "day": 14
+      },
+      "text": {
+        "headline": "✅ 攻占巴士底狱",
+        "text": "巴士底狱（🇫🇷Prise de la Bastille）"
+      },
+      "group": "法国",
+      "display_date": "1789-07-14"
+    },
+    {
+      "start_date": {
+        "year": 1789,
+        "month": 8,
+        "day": 26
+      },
+      "text": {
+        "headline": "✅ 颁布人权宣言",
+        "text": "《人权和公民权宣言》（🇫🇷Déclaration des Droits de l'Homme et du Citoyen）"
+      },
+      "group": "法国",
+      "display_date": "1789-08-26"
+    },
+    {
+      "start_date": {
+        "year": 1789,
+        "month": 10,
+        "day": 5
+      },
+      "end_date": {
+        "year": 1789,
+        "month": 10,
+        "day": 6
+      },
+      "text": {
+        "headline": "✅ 凡尔赛妇女大游行",
+        "text": "又称十月游行、 十月事件或凡尔赛游行\n最初从巴黎开始，之后妇女们向凡尔赛的皇宫进发\n10-06 她们迫使国王（催驾事件）和国民制宪议会和她们一起返回巴黎"
+      },
+      "display_date": "1789-10-05 ~ 1789-10-06"
+    },
+    {
+      "start_date": {
+        "year": 1791,
+        "month": 8,
+        "day": 14
+      },
+      "text": {
+        "headline": "圣多明各奴隶起义"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1791,
+        "month": 9
+      },
+      "text": {
+        "headline": "阿维尼翁并入法国"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1791,
+        "month": 7,
+        "day": 17
+      },
+      "text": {
+        "headline": "✅ 战神广场屠杀"
+      },
+      "group": "事件",
+      "display_date": "1791-07-17"
+    },
+    {
+      "start_date": {
+        "year": 1791,
+        "month": 6,
+        "day": 20
+      },
+      "end_date": {
+        "year": 1791,
+        "month": 6,
+        "day": 21
+      },
+      "text": {
+        "headline": "✅ 路易十六出逃",
+        "text": "路易十六出逃（Flight to Varennes）"
+      },
+      "group": "事件",
+      "display_date": "1791-06-20 ~ 1792-06-21"
+    },
+    {
+      "start_date": {
+        "year": 1792,
+        "month": 4,
+        "day": 20
+      },
+      "text": {
+        "headline": "法国向奥地利宣战"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1792,
+        "month": 6,
+        "day": 13
+      },
+      "text": {
+        "headline": "普鲁士向法国宣战"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1792,
+        "month": 9,
+        "day": 20
+      },
+      "end_date": {
+        "year": 1795,
+        "month": 10,
+        "day": 26
+      },
+      "text": {
+        "headline": "❓ 国民公会"
+      },
+      "group": "政府"
+    },
+    {
+      "start_date": {
+        "year": 1792,
+        "month": 9,
+        "day": 2
+      },
+      "end_date": {
+        "year": 1792,
+        "month": 9,
+        "day": 7
+      },
+      "text": {
+        "headline": "✅ 九月屠杀",
+        "text": "因为担心反对势力军队袭击时会释放囚犯，巴黎及全国各城市的激进分子持续几日先发制人地屠杀囚犯。"
+      },
+      "group": "事件",
+      "display_date": "1792-09-02 ~ 1792-09-06/07"
+    },
+    {
+      "start_date": {
+        "year": 1792,
+        "month": 8,
+        "day": 10
+      },
+      "text": {
+        "headline": "✅ 攻占杜伊勒里宫",
+        "text": "瑞士卫队战斗到最后\n废除君主制"
+      },
+      "group": "事件",
+      "display_date": "1792-08-10"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 1,
+        "day": 21
+      },
+      "text": {
+        "headline": "✅ 路易十六被处决"
+      },
+      "group": "人物",
+      "display_date": "1793-01-21"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 2,
+        "day": 1
+      },
+      "text": {
+        "headline": "法国对英国和荷兰宣战"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 3,
+        "day": 7
+      },
+      "text": {
+        "headline": "法国对西班牙宣战"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 7,
+        "day": 13
+      },
+      "text": {
+        "headline": "✅ 马拉被刺杀"
+      },
+      "group": "人物",
+      "display_date": "1793-07-13"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 10,
+        "day": 16
+      },
+      "text": {
+        "headline": "✅ 玛丽·安托瓦内特被处决"
+      },
+      "group": "人物",
+      "display_date": "1793-10-16"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 9,
+        "day": 5
+      },
+      "end_date": {
+        "year": 1794,
+        "month": 7,
+        "day": 28
+      },
+      "text": {
+        "headline": "✅ 恐怖统治 / 雅各宾专政",
+        "text": "Several historians consider the \"reign of terror\" to have begun in 1793, placing the starting date at either 5 September,[1] June[2] or March (birth of the Revolutionary Tribunal), while some consider it to have begun in September 1792 (September Massacres), or even July 1789 (when the first lynchings took place),[3] but there is a consensus that it ended with the fall of Maximilien Robespierre in July 1794.[1][2]\n\nContrairement à ce que l'on a longtemps écrit, a expliqué l'historienne Annie Jourdan, Barère de Vieuzac n'a pas mis la terreur à l’ordre du jour le 5 septembre 1793[35]. Jouant avec les mots, celui-ci mêlait deux concepts distincts : la répression aussi sévère soit-elle, et le terrorisme d’État qui est l’exagération de la répression. C’est de cette époque et sur cette question du terrorisme comme instrument de gouvernement que devait se fissurer l’unité apparente qui avait prévalu au sein du Comité de salut public. Les divisions – qui devaient déboucher sur le 9 thermidor – sont en effet directement en rapport avec la question cruciale de la poursuite de la guerre et de la reconnaissance de la république, puisque, indépendamment des neutres (Suède, Danemark, Turquie), plusieurs États, comme la Prusse et l’Espagne, se disaient prêts – si l’on arrêtait le terrorisme – à négocier et reconnaître la République."
+      },
+      "group": "政府",
+      "display_date": "1793-09-05 ❓~ 1794-07-28 ✅"
+    },
+    {
+      "start_date": {
+        "year": 1794,
+        "month": 2,
+        "day": 4
+      },
+      "text": {
+        "headline": "废除奴隶制"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1794,
+        "month": 7,
+        "day": 27
+      },
+      "text": {
+        "headline": "✅ 热月政变"
+      },
+      "group": "事件"
+    },
+    {
+      "start_date": {
+        "year": 1794,
+        "month": 7,
+        "day": 28
+      },
+      "text": {
+        "headline": "✅ 罗伯斯庇尔被处死"
+      },
+      "group": "人物"
+    },
+    {
+      "start_date": {
+        "year": 1795,
+        "month": 10,
+        "day": 1
+      },
+      "text": {
+        "headline": "兼并比利时"
+      },
+      "group": "法国"
+    },
+    {
+      "start_date": {
+        "year": 1795,
+        "month": 11,
+        "day": 2
+      },
+      "end_date": {
+        "year": 1799,
+        "month": 11,
+        "day": 10
+      },
+      "text": {
+        "headline": "✅ 督政府"
+      },
+      "group": "政府"
+    },
+    {
+      "start_date": {
+        "year": 1799,
+        "month": 11,
+        "day": 10
+      },
+      "end_date": {
+        "year": 1804,
+        "month": 5,
+        "day": 18
+      },
+      "text": {
+        "headline": "✅ 执政府"
+      },
+      "group": "政府"
+    },
+    {
+      "start_date": {
+        "year": 1799,
+        "month": 11,
+        "day": 9
+      },
+      "end_date": {
+        "year": 1799,
+        "month": 11,
+        "day": 10
+      },
+      "text": {
+        "headline": "✅ 雾月政变"
+      },
+      "group": "事件"
+    },
+    {
+      "start_date": {
+        "year": 1797,
+        "month": 9,
+        "day": 4
+      },
+      "text": {
+        "headline": "✅ 果月政变",
+        "text": "督政府成员针对在议会选举中取得优势的保皇党人发动的一场政变。"
+      },
+      "group": "事件",
+      "display_date": "1797-09-04"
+    },
+    {
+      "start_date": {
+        "year": 1802,
+        "month": 5,
+        "day": 10
+      },
+      "text": {
+        "headline": "❓ 拿破仑成为终生执政",
+        "text": "Wikipedia: 1802 French constitutional referendum \n A referendum ratifying the new constitution of the Consulate, which made Napoleon Bonaparte First Consul for life, was held on 10 May 1802. The official result showed 99.76% of voters in favour of the change. Of seven million eligible voters, 49.45% abstained.\nWikipedia: French Consulate\nThe Rubicon was crossed on that day: Bonaparte’s march to empire began with the Constitution of the Year X dated 16 Thermidor or 4 August 1802.\nOn 2 August 1802 (14 Thermidor, An X), a second national referendum was held, this time to confirm Napoleon as \"First Consul for Life.\"[4] Once again, a vote claimed 99.7% approval."
+      },
+      "group": "事件",
+      "display_date": "1802-05-10"
+    }
+  ]
+}
