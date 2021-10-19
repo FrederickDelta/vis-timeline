@@ -1,0 +1,644 @@
+{
+  "title": {
+    "text": {
+      "headline": "Hundred Years' War",
+      "text": "<p>24 May 1337 – 19 October 1453</p><p>(116 years, 4 months, 3 weeks and 4 days)</p>"
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": 1337
+      },
+      "end_date": {
+        "year": 1453,
+        "month": 7,
+        "day": 17
+      },
+      "text": {
+        "headline": "Hundred Years' War"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": 900
+      },
+      "text": {
+        "headline": "Kings of England"
+      },
+      "group": "Kings of England",
+      "display_date": "."
+    },
+    {
+      "start_date": {
+        "year": 900
+      },
+      "text": {
+        "headline": "Notable of England"
+      },
+      "group": "Notable of England",
+      "display_date": "."
+    },
+    {
+      "start_date": {
+        "year": 900
+      },
+      "text": {
+        "headline": "Important Events"
+      },
+      "group": "Events",
+      "display_date": "."
+    },
+    {
+      "start_date": {
+        "year": 900
+      },
+      "text": {
+        "headline": "Notable of France"
+      },
+      "group": "Notable of France",
+      "display_date": "."
+    },
+    {
+      "start_date": {
+        "year": 900
+      },
+      "text": {
+        "headline": "Kings of France"
+      },
+      "group": "Kings of France",
+      "display_date": "."
+    },
+    {
+      "start_date": {
+        "year": 911
+      },
+      "end_date": {
+        "year": 927
+      },
+      "text": {
+        "headline": "Rollo the Viking, first ruler of Normandy",
+        "text": "<p>Rollo (c. 860 – c. 930 ) was a Viking who became the first ruler of Normandy. Charles the Simple, the king of West Francia, ceded lands between the mouth of the Seine and what is now Rouen in exchange for Rollo agreeing to end his brigandage, and provide the Franks with protection against future Viking raids.</p>"
+      },
+      "media": {
+        "url": "./media/Notable_EN/0911-Rollo_the_Viking.jpeg",
+        "caption": "Rollo on the Statue of William the Conqueror in Falaise town square"
+      },
+      "group": "Notable of England"
+    },
+    {
+      "start_date": {
+        "year": 911
+      },
+      "end_date": {
+        "year": 1066
+      },
+      "text": {
+        "headline": "Duke of Normandy",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
+    },
+    {
+      "start_date": {
+        "year": 1066
+      },
+      "end_date": {
+        "year": 1087
+      },
+      "text": {
+        "headline": "William I, the Conqueror",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1066_William_I.jpg"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1066
+      },
+      "end_date": {
+        "year": 1337
+      },
+      "text": {
+        "headline": "King of England, but pay homage to King of France as a vassal",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
+    },
+    {
+      "start_date": {
+        "year": 1137
+      },
+      "end_date": {
+        "year": 1180
+      },
+      "text": {
+        "headline": "Louis VII",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1137_Louis_VII.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1152
+      },
+      "text": {
+        "headline": "Eleanor of Aquitaine",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Notable_EN/1152_Eleanor_of_Aquitaine.jpg"
+      },
+      "group": "Notable of England"
+    },
+    {
+      "start_date": {
+        "year": 1154
+      },
+      "end_date": {
+        "year": 1189
+      },
+      "text": {
+        "headline": "Henry II",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1154_Henry_II.jpg"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1180
+      },
+      "end_date": {
+        "year": 1223
+      },
+      "text": {
+        "headline": "Philippe II",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1180_Philippe_II.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1199
+      },
+      "end_date": {
+        "year": 1216
+      },
+      "text": {
+        "headline": "John Lackland",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1199_John_Lackland.jpg"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "text": {
+        "headline": "Isabella of Angoulême",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Notable_EN/1200_Isabella_of_Angouleme.jpg"
+      },
+      "group": "Notable of England"
+    },
+    {
+      "start_date": {
+        "year": 1202
+      },
+      "end_date": {
+        "year": 1204
+      },
+      "text": {
+        "headline": "French invasion of Normandy",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1213
+      },
+      "end_date": {
+        "year": 1214
+      },
+      "text": {
+        "headline": "Anglo-French War",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1214,
+        "month": 7,
+        "day": 27
+      },
+      "text": {
+        "headline": "Battle of Bouvines",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1308
+      },
+      "text": {
+        "headline": "Isabella of France",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Notable_EN/1308_Isabella_of_France.png"
+      },
+      "group": "Notable of England"
+    },
+    {
+      "start_date": {
+        "year": 1327
+      },
+      "end_date": {
+        "year": 1377
+      },
+      "text": {
+        "headline": "Edward III",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1327_Edward_III.jpg",
+        "caption": "Edward III as he was depicted in the late 16th century"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1328
+      },
+      "end_date": {
+        "year": 1350
+      },
+      "text": {
+        "headline": "Philip VI",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1328_Philippe_VI.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1337
+      },
+      "end_date": {
+        "year": 1360
+      },
+      "text": {
+        "headline": "Edwardian War",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
+    },
+    {
+      "start_date": {
+        "year": 1346
+      },
+      "text": {
+        "headline": "Edward the Black Prince",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Notable_EN/1346_The_Black_Prince.jpg",
+        "caption": "The Black Prince at Crécy paying respects to fallen John of Bohemia, by Julian Russel Story"
+      },
+      "group": "Notable of England"
+    },
+    {
+      "start_date": {
+        "year": 1346,
+        "month": 8,
+        "day": 26
+      },
+      "text": {
+        "headline": "Battle of Crécy",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1346-08-26_Battle_of_Crecy.png",
+        "caption": "Map of the Battle of Crécy"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1350
+      },
+      "end_date": {
+        "year": 1364
+      },
+      "text": {
+        "headline": "John II",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1350_John_II.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1356,
+        "month": 9,
+        "day": 19
+      },
+      "text": {
+        "headline": "Battle of Poitiers",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1356-09-19_Battle_of_Poitiers.png",
+        "caption": "Map of the Battle"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1360,
+        "month": 10,
+        "day": 24
+      },
+      "text": {
+        "headline": "Treaty of Brétigny",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1360-10-24_Treaty_of_Bretigny.jpg",
+        "caption": "France after the Treaty of Brétigny – French territory in green, English territory in pink"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1364
+      },
+      "end_date": {
+        "year": 1380
+      },
+      "text": {
+        "headline": "Charles V",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1364_Charles_V.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1369
+      },
+      "end_date": {
+        "year": 1389
+      },
+      "text": {
+        "headline": "Caroline War",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
+    },
+    {
+      "start_date": {
+        "year": 1377
+      },
+      "end_date": {
+        "year": 1399
+      },
+      "text": {
+        "headline": "Richard II",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1377_Richard_II.jpg",
+        "caption": "Anonymous artist's impression of Richard II in the 16th century"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1380
+      },
+      "end_date": {
+        "year": 1422
+      },
+      "text": {
+        "headline": "Charles VI",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1380_Charles_VI.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1399
+      },
+      "end_date": {
+        "year": 1413
+      },
+      "text": {
+        "headline": "Henry IV",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1399_Henry_IV.jpg",
+        "caption": "16th-century imaginary painting of Henry IV, National Portrait Gallery, London"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1413
+      },
+      "end_date": {
+        "year": 1422
+      },
+      "text": {
+        "headline": "Henry V",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1413_Henry_V.jpg",
+        "caption": "Posthumous portrait of Henry V"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1415,
+        "month": 10,
+        "day": 25
+      },
+      "text": {
+        "headline": "Battle of Agincourt",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1415-10-25_Battle_of_Agincort.png",
+        "caption": "Map of the Battle"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1415
+      },
+      "end_date": {
+        "year": 1453,
+        "month": 7,
+        "day": 17
+      },
+      "text": {
+        "headline": "Lancastrian War",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
+    },
+    {
+      "start_date": {
+        "year": 1422
+      },
+      "end_date": {
+        "year": 1461
+      },
+      "text": {
+        "headline": "Henry VI",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_EN/1422_Henry_VI.jpg",
+        "caption": "Portrait of Henry VI, circa 1540, National Portrait Gallery, London"
+      },
+      "group": "Kings of England"
+    },
+    {
+      "start_date": {
+        "year": 1422
+      },
+      "end_date": {
+        "year": 1461
+      },
+      "text": {
+        "headline": "Charles VII",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Kings_FR/1422_Charles_VII.jpg"
+      },
+      "group": "Kings of France"
+    },
+    {
+      "start_date": {
+        "year": 1428,
+        "month": 10,
+        "day": 12
+      },
+      "end_date": {
+        "year": 1429,
+        "month": 5,
+        "day": 8
+      },
+      "text": {
+        "headline": "Siege of Orléans",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1428-10-12_Siege_of_Orleans.jpg",
+        "caption": "Joan of Arc at the Siege of Orléans",
+        "credit": "Jules Eugène Lenepveu"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1429,
+        "month": 6,
+        "day": 18
+      },
+      "text": {
+        "headline": "Battle of Patay",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1429-06-18_Battle_of_Patay.jpg"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1429
+      },
+      "text": {
+        "headline": "Joan of Arc",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Notable_FR/1429_Joan_of_Arc.jpg",
+        "caption": "Miniature (15th century)"
+      },
+      "group": "Notable of France"
+    },
+    {
+      "start_date": {
+        "year": 1450,
+        "month": 4,
+        "day": 15
+      },
+      "text": {
+        "headline": "Battle of Formigny",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1450-04-15_Battle_of_Formigny.jpg",
+        "caption": "The Battle of Formigny from Les Vigiles de Charles VII",
+        "credit": "Martial d'Auvergne"
+      },
+      "group": "Events"
+    },
+    {
+      "start_date": {
+        "year": 1453,
+        "month": 7,
+        "day": 17
+      },
+      "text": {
+        "headline": "Battle of Castillon",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "media": {
+        "url": "./media/Events/1453-07-17_Battle_of_Castillon.jpg",
+        "caption": "Battle of Castillon, John Talbot is falling from his wounded horse.",
+        "credit": "Charles-Philippe Larivière"
+      },
+      "group": "Events"
+    }
+  ]
+}
